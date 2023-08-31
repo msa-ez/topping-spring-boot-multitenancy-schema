@@ -1,5 +1,5 @@
-name: Spring boot multitenancy
+name: Spring boot multitenancy schema
 rating: 5
 imageUrl: https://github.com/msa-ez/template-axon2/assets/130956306/58c7da74-b5db-4a0a-8b34-334d3809f2f6
-templateName: spring-boot-multitenancy
-description: Spring boot multitenancy description
+templateName: spring-boot-multitenancy-schema
+description: By using a separate database schema for each tenant, it supports multi-tenancy.
