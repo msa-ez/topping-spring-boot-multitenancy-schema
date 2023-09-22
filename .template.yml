@@ -4,5 +4,6 @@ imageUrl: https://github.com/msa-ez/topping-spring-security/assets/123912988/0a9
 templateName: spring-boot-multitenancy-schema
 description: By using a separate database schema for each tenant, it supports multi-tenancy.
 depends:
+  - template-spring-boot3
 tags:
   - Multitenancy
