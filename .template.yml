@@ -4,5 +4,6 @@ imageUrl: https://github.com/kibum0405/topping-wijmo/assets/59447401/3cf4bb64-91
 templateName: spring-boot-multitenancy-schema
 description: By using a separate database schema for each tenant, it supports multi-tenancy.
 depends:
+  - spring-boot-3
 tags:
   - Multitenancy
