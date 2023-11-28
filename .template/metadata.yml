@@ -1,6 +1,6 @@
 name: Spring boot multitenancy schema
 rating: 5
-imageUrl: https://github.com/kibum0405/topping-wijmo/assets/59447401/3cf4bb64-9128-4eae-8aba-7e70cb8b55fb
+imageUrl: https://github.com/msa-ez/template-spring-boot-3/assets/123912988/a981b7a2-5e1c-47b3-b7e8-6f8880db06f6
 description: By using a separate database schema for each tenant, it supports multi-tenancy.
 depends:
   - spring-boot-3
